@@ -1,4 +1,4 @@
-#Francisco Francillon
+#Francisco 
 #Write a program that asks the user repeatedly to enter a student's score or enter -1 to stop.
 #When finished entering all the scores, the program should display the number of scores entered, 
 #the sum of the scores, the mean, the lowest and the highest score.''''
