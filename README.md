@@ -11,3 +11,26 @@ Algorithm
 4. When the user enter negative 1 they will exit the loop.
 5. the meanScore variable will compute the the average by dividing the sum by the count variable 
 6. Finaly the program will display to the user the amount of score they enter, the sum of the score, the mean, the highest and lowest. 
+
+
+Test Data
+= 
+Input:
+```
+Enter students score or enter -1 to stop: 100
+Enter students score or enter -1 to stop: 95
+Enter students score or enter -1 to stop: 44
+Enter students score or enter -1 to stop: 78
+Enter students score or enter -1 to stop: 56
+Enter students score or enter -1 to stop: 89
+Enter students score or enter -1 to stop: -1
+```
+Output:
+
+```
+You entered:  6 score
+The sum is:  462
+The mean is:  77.0
+The highest score is:  100
+The lowest score is:  44
+```
